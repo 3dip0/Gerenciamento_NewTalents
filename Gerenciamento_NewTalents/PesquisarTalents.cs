@@ -116,10 +116,6 @@ namespace Gerenciamento_NewTalents
         }
 
 
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
 
         private void txtPesquisar_TextChanged(object sender, EventArgs e)
         {
@@ -151,7 +147,6 @@ namespace Gerenciamento_NewTalents
         private void btnEditar_Click(object sender, EventArgs e)
         {
             CadastroTalents cadastroTalents = new CadastroTalents();
-
 
             cadastroTalents.txtId.Text = dgvTalents.SelectedCells[0].Value.ToString();
             cadastroTalents.txtEmail.Text = dgvTalents.SelectedCells[1].Value.ToString();

@@ -98,8 +98,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConexaoMySql\IniFile.cs" />
-    <Compile Include="ConexaoMySql\MySQL.cs" />
+    <Compile Include="IniFile.cs" />
+    <Compile Include="MySQL.cs" />
     <Compile Include="PesquisarTalents.cs">
       <SubType>Form</SubType>
     </Compile>

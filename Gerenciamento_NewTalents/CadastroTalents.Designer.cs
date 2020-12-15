@@ -1,7 +1,7 @@
 ﻿
 namespace Gerenciamento_NewTalents
 {
-    partial class NewTalent
+    partial class CadastroTalents
     {
         /// <summary>
         /// Required designer variable.
@@ -35,83 +35,114 @@ namespace Gerenciamento_NewTalents
             this.outras = new System.Windows.Forms.TextBox();
             this.label39 = new System.Windows.Forms.Label();
             this.panel38 = new System.Windows.Forms.Panel();
+            this.laravel = new System.Windows.Forms.TextBox();
             this.label38 = new System.Windows.Forms.Label();
             this.panel34 = new System.Windows.Forms.Panel();
+            this.seo = new System.Windows.Forms.TextBox();
             this.label34 = new System.Windows.Forms.Label();
             this.panel35 = new System.Windows.Forms.Panel();
+            this.illustrator = new System.Windows.Forms.TextBox();
             this.label35 = new System.Windows.Forms.Label();
             this.panel36 = new System.Windows.Forms.Panel();
+            this.photoshop = new System.Windows.Forms.TextBox();
             this.label36 = new System.Windows.Forms.Label();
             this.panel37 = new System.Windows.Forms.Panel();
+            this.salesforce = new System.Windows.Forms.TextBox();
             this.label37 = new System.Windows.Forms.Label();
             this.panel30 = new System.Windows.Forms.Panel();
+            this.django = new System.Windows.Forms.TextBox();
             this.label30 = new System.Windows.Forms.Label();
             this.panel31 = new System.Windows.Forms.Panel();
+            this.cake = new System.Windows.Forms.TextBox();
             this.label31 = new System.Windows.Forms.Label();
             this.panel32 = new System.Windows.Forms.Panel();
+            this.expnodejs = new System.Windows.Forms.TextBox();
+            this.label32 = new System.Windows.Forms.Label();
             this.panel33 = new System.Windows.Forms.Panel();
+            this.nodejs = new System.Windows.Forms.TextBox();
             this.label33 = new System.Windows.Forms.Label();
             this.panel26 = new System.Windows.Forms.Panel();
+            this.angularjs = new System.Windows.Forms.TextBox();
             this.label26 = new System.Windows.Forms.Label();
             this.panel27 = new System.Windows.Forms.Panel();
+            this.jquery = new System.Windows.Forms.TextBox();
             this.label27 = new System.Windows.Forms.Label();
             this.panel28 = new System.Windows.Forms.Panel();
+            this.bootstrap = new System.Windows.Forms.TextBox();
             this.label28 = new System.Windows.Forms.Label();
             this.panel29 = new System.Windows.Forms.Panel();
+            this.css = new System.Windows.Forms.TextBox();
             this.label29 = new System.Windows.Forms.Label();
             this.panel18 = new System.Windows.Forms.Panel();
+            this.mysql = new System.Windows.Forms.TextBox();
             this.label18 = new System.Windows.Forms.Label();
             this.panel19 = new System.Windows.Forms.Panel();
+            this.mysqlserv = new System.Windows.Forms.TextBox();
             this.label19 = new System.Windows.Forms.Label();
             this.panel20 = new System.Windows.Forms.Panel();
+            this.ruby = new System.Windows.Forms.TextBox();
             this.label20 = new System.Windows.Forms.Label();
-            this.panel21 = new System.Windows.Forms.Panel();
-            this.label21 = new System.Windows.Forms.Label();
             this.panel22 = new System.Windows.Forms.Panel();
+            this.wordpress = new System.Windows.Forms.TextBox();
             this.label22 = new System.Windows.Forms.Label();
             this.panel23 = new System.Windows.Forms.Panel();
+            this.vue = new System.Windows.Forms.TextBox();
             this.label23 = new System.Windows.Forms.Label();
             this.panel24 = new System.Windows.Forms.Panel();
+            this.php = new System.Windows.Forms.TextBox();
             this.label24 = new System.Windows.Forms.Label();
             this.panel25 = new System.Windows.Forms.Panel();
+            this.majento = new System.Windows.Forms.TextBox();
             this.label25 = new System.Windows.Forms.Label();
             this.panel10 = new System.Windows.Forms.Panel();
+            this.csharp = new System.Windows.Forms.TextBox();
             this.label10 = new System.Windows.Forms.Label();
             this.panel11 = new System.Windows.Forms.Panel();
+            this.c = new System.Windows.Forms.TextBox();
             this.label11 = new System.Windows.Forms.Label();
             this.panel12 = new System.Windows.Forms.Panel();
+            this.aspnetwf = new System.Windows.Forms.TextBox();
             this.label12 = new System.Windows.Forms.Label();
             this.panel13 = new System.Windows.Forms.Panel();
+            this.aspnetmvc = new System.Windows.Forms.TextBox();
             this.label13 = new System.Windows.Forms.Label();
             this.panel14 = new System.Windows.Forms.Panel();
+            this.flask = new System.Windows.Forms.TextBox();
             this.label14 = new System.Windows.Forms.Label();
             this.panel15 = new System.Windows.Forms.Panel();
             this.label15 = new System.Windows.Forms.Label();
             this.panel16 = new System.Windows.Forms.Panel();
             this.label16 = new System.Windows.Forms.Label();
             this.panel17 = new System.Windows.Forms.Panel();
+            this.angular = new System.Windows.Forms.TextBox();
             this.label17 = new System.Windows.Forms.Label();
             this.panel6 = new System.Windows.Forms.Panel();
+            this.html = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.panel7 = new System.Windows.Forms.Panel();
+            this.ios = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
             this.panel8 = new System.Windows.Forms.Panel();
+            this.swift = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
             this.panel9 = new System.Windows.Forms.Panel();
+            this.flutter = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
             this.panel4 = new System.Windows.Forms.Panel();
+            this.android = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.panel5 = new System.Windows.Forms.Panel();
+            this.reactnative = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.reactjs = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.ionic = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.lblSalario = new System.Windows.Forms.Label();
             this.txtSalario = new System.Windows.Forms.TextBox();
-            this.chkPreferencia_horario = new System.Windows.Forms.CheckedListBox();
             this.lblHorario = new System.Windows.Forms.Label();
-            this.chkDisponibilidade_hora = new System.Windows.Forms.CheckedListBox();
             this.lblCargaHoraria = new System.Windows.Forms.Label();
             this.lblPortfolio = new System.Windows.Forms.Label();
             this.txtPortfolio = new System.Windows.Forms.TextBox();
@@ -127,44 +158,20 @@ namespace Gerenciamento_NewTalents
             this.txtNome = new System.Windows.Forms.TextBox();
             this.lbl_Email = new System.Windows.Forms.Label();
             this.txtEmail = new System.Windows.Forms.TextBox();
-            this.label32 = new System.Windows.Forms.Label();
-            this.ios = new System.Windows.Forms.TextBox();
-            this.html = new System.Windows.Forms.TextBox();
-            this.css = new System.Windows.Forms.TextBox();
-            this.bootstrap = new System.Windows.Forms.TextBox();
-            this.jquery = new System.Windows.Forms.TextBox();
-            this.angularjs = new System.Windows.Forms.TextBox();
-            this.seo = new System.Windows.Forms.TextBox();
-            this.angular = new System.Windows.Forms.TextBox();
+            this.chkQuatro = new System.Windows.Forms.CheckBox();
+            this.chkQuatroaSeis = new System.Windows.Forms.CheckBox();
+            this.chkAcimaOito = new System.Windows.Forms.CheckBox();
+            this.chkSeisaOito = new System.Windows.Forms.CheckBox();
+            this.chkFinaisSemana = new System.Windows.Forms.CheckBox();
             this.java = new System.Windows.Forms.TextBox();
+            this.chkComercial = new System.Windows.Forms.CheckBox();
+            this.chkMadrugada = new System.Windows.Forms.CheckBox();
+            this.chkNoite = new System.Windows.Forms.CheckBox();
+            this.chkTarde = new System.Windows.Forms.CheckBox();
+            this.chkManha = new System.Windows.Forms.CheckBox();
+            this.label40 = new System.Windows.Forms.Label();
+            this.txtId = new System.Windows.Forms.TextBox();
             this.python = new System.Windows.Forms.TextBox();
-            this.flask = new System.Windows.Forms.TextBox();
-            this.aspnetmvc = new System.Windows.Forms.TextBox();
-            this.aspnetwf = new System.Windows.Forms.TextBox();
-            this.c = new System.Windows.Forms.TextBox();
-            this.csharp = new System.Windows.Forms.TextBox();
-            this.nodejs = new System.Windows.Forms.TextBox();
-            this.expnodejs = new System.Windows.Forms.TextBox();
-            this.cake = new System.Windows.Forms.TextBox();
-            this.django = new System.Windows.Forms.TextBox();
-            this.laravel = new System.Windows.Forms.TextBox();
-            this.majento = new System.Windows.Forms.TextBox();
-            this.php = new System.Windows.Forms.TextBox();
-            this.vue = new System.Windows.Forms.TextBox();
-            this.wordpress = new System.Windows.Forms.TextBox();
-            this.phyton = new System.Windows.Forms.TextBox();
-            this.ruby = new System.Windows.Forms.TextBox();
-            this.mysqlserv = new System.Windows.Forms.TextBox();
-            this.mysql = new System.Windows.Forms.TextBox();
-            this.salesforce = new System.Windows.Forms.TextBox();
-            this.photoshop = new System.Windows.Forms.TextBox();
-            this.illustrator = new System.Windows.Forms.TextBox();
-            this.ionic = new System.Windows.Forms.TextBox();
-            this.reactjs = new System.Windows.Forms.TextBox();
-            this.reactnative = new System.Windows.Forms.TextBox();
-            this.flutter = new System.Windows.Forms.TextBox();
-            this.android = new System.Windows.Forms.TextBox();
-            this.swift = new System.Windows.Forms.TextBox();
             this.panelNewTalent.SuspendLayout();
             this.panel38.SuspendLayout();
             this.panel34.SuspendLayout();
@@ -182,7 +189,6 @@ namespace Gerenciamento_NewTalents
             this.panel18.SuspendLayout();
             this.panel19.SuspendLayout();
             this.panel20.SuspendLayout();
-            this.panel21.SuspendLayout();
             this.panel22.SuspendLayout();
             this.panel23.SuspendLayout();
             this.panel24.SuspendLayout();
@@ -211,6 +217,18 @@ namespace Gerenciamento_NewTalents
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.panelNewTalent.BackColor = System.Drawing.SystemColors.Window;
+            this.panelNewTalent.Controls.Add(this.label40);
+            this.panelNewTalent.Controls.Add(this.txtId);
+            this.panelNewTalent.Controls.Add(this.chkComercial);
+            this.panelNewTalent.Controls.Add(this.chkMadrugada);
+            this.panelNewTalent.Controls.Add(this.chkNoite);
+            this.panelNewTalent.Controls.Add(this.chkTarde);
+            this.panelNewTalent.Controls.Add(this.chkManha);
+            this.panelNewTalent.Controls.Add(this.chkFinaisSemana);
+            this.panelNewTalent.Controls.Add(this.chkAcimaOito);
+            this.panelNewTalent.Controls.Add(this.chkSeisaOito);
+            this.panelNewTalent.Controls.Add(this.chkQuatroaSeis);
+            this.panelNewTalent.Controls.Add(this.chkQuatro);
             this.panelNewTalent.Controls.Add(this.label1);
             this.panelNewTalent.Controls.Add(this.salvar);
             this.panelNewTalent.Controls.Add(this.outras);
@@ -231,7 +249,6 @@ namespace Gerenciamento_NewTalents
             this.panelNewTalent.Controls.Add(this.panel18);
             this.panelNewTalent.Controls.Add(this.panel19);
             this.panelNewTalent.Controls.Add(this.panel20);
-            this.panelNewTalent.Controls.Add(this.panel21);
             this.panelNewTalent.Controls.Add(this.panel22);
             this.panelNewTalent.Controls.Add(this.panel23);
             this.panelNewTalent.Controls.Add(this.panel24);
@@ -254,9 +271,7 @@ namespace Gerenciamento_NewTalents
             this.panelNewTalent.Controls.Add(this.panel2);
             this.panelNewTalent.Controls.Add(this.lblSalario);
             this.panelNewTalent.Controls.Add(this.txtSalario);
-            this.panelNewTalent.Controls.Add(this.chkPreferencia_horario);
             this.panelNewTalent.Controls.Add(this.lblHorario);
-            this.panelNewTalent.Controls.Add(this.chkDisponibilidade_hora);
             this.panelNewTalent.Controls.Add(this.lblCargaHoraria);
             this.panelNewTalent.Controls.Add(this.lblPortfolio);
             this.panelNewTalent.Controls.Add(this.txtPortfolio);
@@ -281,7 +296,7 @@ namespace Gerenciamento_NewTalents
             // 
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(273, 277);
+            this.label1.Location = new System.Drawing.Point(271, 234);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(442, 13);
             this.label1.TabIndex = 66;
@@ -293,7 +308,7 @@ namespace Gerenciamento_NewTalents
             this.salvar.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.salvar.BackColor = System.Drawing.SystemColors.Window;
             this.salvar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.salvar.Location = new System.Drawing.Point(427, 581);
+            this.salvar.Location = new System.Drawing.Point(425, 538);
             this.salvar.Name = "salvar";
             this.salvar.Size = new System.Drawing.Size(112, 32);
             this.salvar.TabIndex = 65;
@@ -304,7 +319,7 @@ namespace Gerenciamento_NewTalents
             // outras
             // 
             this.outras.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.outras.Location = new System.Drawing.Point(612, 546);
+            this.outras.Location = new System.Drawing.Point(610, 503);
             this.outras.Name = "outras";
             this.outras.Size = new System.Drawing.Size(247, 20);
             this.outras.TabIndex = 64;
@@ -313,7 +328,7 @@ namespace Gerenciamento_NewTalents
             // 
             this.label39.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label39.AutoSize = true;
-            this.label39.Location = new System.Drawing.Point(609, 532);
+            this.label39.Location = new System.Drawing.Point(607, 489);
             this.label39.Name = "label39";
             this.label39.Size = new System.Drawing.Size(174, 13);
             this.label39.TabIndex = 63;
@@ -325,10 +340,17 @@ namespace Gerenciamento_NewTalents
             this.panel38.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel38.Controls.Add(this.laravel);
             this.panel38.Controls.Add(this.label38);
-            this.panel38.Location = new System.Drawing.Point(350, 545);
+            this.panel38.Location = new System.Drawing.Point(348, 502);
             this.panel38.Name = "panel38";
             this.panel38.Size = new System.Drawing.Size(247, 21);
             this.panel38.TabIndex = 62;
+            // 
+            // laravel
+            // 
+            this.laravel.Location = new System.Drawing.Point(95, 0);
+            this.laravel.Name = "laravel";
+            this.laravel.Size = new System.Drawing.Size(68, 20);
+            this.laravel.TabIndex = 33;
             // 
             // label38
             // 
@@ -345,10 +367,17 @@ namespace Gerenciamento_NewTalents
             this.panel34.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel34.Controls.Add(this.seo);
             this.panel34.Controls.Add(this.label34);
-            this.panel34.Location = new System.Drawing.Point(88, 545);
+            this.panel34.Location = new System.Drawing.Point(86, 502);
             this.panel34.Name = "panel34";
             this.panel34.Size = new System.Drawing.Size(237, 21);
             this.panel34.TabIndex = 61;
+            // 
+            // seo
+            // 
+            this.seo.Location = new System.Drawing.Point(95, 0);
+            this.seo.Name = "seo";
+            this.seo.Size = new System.Drawing.Size(68, 20);
+            this.seo.TabIndex = 33;
             // 
             // label34
             // 
@@ -365,10 +394,17 @@ namespace Gerenciamento_NewTalents
             this.panel35.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel35.Controls.Add(this.illustrator);
             this.panel35.Controls.Add(this.label35);
-            this.panel35.Location = new System.Drawing.Point(612, 503);
+            this.panel35.Location = new System.Drawing.Point(610, 439);
             this.panel35.Name = "panel35";
             this.panel35.Size = new System.Drawing.Size(247, 21);
             this.panel35.TabIndex = 60;
+            // 
+            // illustrator
+            // 
+            this.illustrator.Location = new System.Drawing.Point(95, 0);
+            this.illustrator.Name = "illustrator";
+            this.illustrator.Size = new System.Drawing.Size(68, 20);
+            this.illustrator.TabIndex = 33;
             // 
             // label35
             // 
@@ -385,10 +421,17 @@ namespace Gerenciamento_NewTalents
             this.panel36.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel36.Controls.Add(this.photoshop);
             this.panel36.Controls.Add(this.label36);
-            this.panel36.Location = new System.Drawing.Point(612, 482);
+            this.panel36.Location = new System.Drawing.Point(610, 418);
             this.panel36.Name = "panel36";
             this.panel36.Size = new System.Drawing.Size(247, 21);
             this.panel36.TabIndex = 59;
+            // 
+            // photoshop
+            // 
+            this.photoshop.Location = new System.Drawing.Point(95, 0);
+            this.photoshop.Name = "photoshop";
+            this.photoshop.Size = new System.Drawing.Size(68, 20);
+            this.photoshop.TabIndex = 33;
             // 
             // label36
             // 
@@ -405,10 +448,17 @@ namespace Gerenciamento_NewTalents
             this.panel37.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel37.Controls.Add(this.salesforce);
             this.panel37.Controls.Add(this.label37);
-            this.panel37.Location = new System.Drawing.Point(612, 461);
+            this.panel37.Location = new System.Drawing.Point(610, 397);
             this.panel37.Name = "panel37";
             this.panel37.Size = new System.Drawing.Size(247, 21);
             this.panel37.TabIndex = 58;
+            // 
+            // salesforce
+            // 
+            this.salesforce.Location = new System.Drawing.Point(95, 0);
+            this.salesforce.Name = "salesforce";
+            this.salesforce.Size = new System.Drawing.Size(68, 20);
+            this.salesforce.TabIndex = 33;
             // 
             // label37
             // 
@@ -425,10 +475,17 @@ namespace Gerenciamento_NewTalents
             this.panel30.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel30.Controls.Add(this.django);
             this.panel30.Controls.Add(this.label30);
-            this.panel30.Location = new System.Drawing.Point(350, 524);
+            this.panel30.Location = new System.Drawing.Point(348, 481);
             this.panel30.Name = "panel30";
             this.panel30.Size = new System.Drawing.Size(247, 21);
             this.panel30.TabIndex = 57;
+            // 
+            // django
+            // 
+            this.django.Location = new System.Drawing.Point(95, 0);
+            this.django.Name = "django";
+            this.django.Size = new System.Drawing.Size(68, 20);
+            this.django.TabIndex = 33;
             // 
             // label30
             // 
@@ -445,10 +502,17 @@ namespace Gerenciamento_NewTalents
             this.panel31.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel31.Controls.Add(this.cake);
             this.panel31.Controls.Add(this.label31);
-            this.panel31.Location = new System.Drawing.Point(350, 503);
+            this.panel31.Location = new System.Drawing.Point(348, 460);
             this.panel31.Name = "panel31";
             this.panel31.Size = new System.Drawing.Size(247, 21);
             this.panel31.TabIndex = 56;
+            // 
+            // cake
+            // 
+            this.cake.Location = new System.Drawing.Point(95, 0);
+            this.cake.Name = "cake";
+            this.cake.Size = new System.Drawing.Size(68, 20);
+            this.cake.TabIndex = 33;
             // 
             // label31
             // 
@@ -465,10 +529,26 @@ namespace Gerenciamento_NewTalents
             this.panel32.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel32.Controls.Add(this.expnodejs);
             this.panel32.Controls.Add(this.label32);
-            this.panel32.Location = new System.Drawing.Point(350, 482);
+            this.panel32.Location = new System.Drawing.Point(348, 439);
             this.panel32.Name = "panel32";
             this.panel32.Size = new System.Drawing.Size(247, 21);
             this.panel32.TabIndex = 55;
+            // 
+            // expnodejs
+            // 
+            this.expnodejs.Location = new System.Drawing.Point(95, 0);
+            this.expnodejs.Name = "expnodejs";
+            this.expnodejs.Size = new System.Drawing.Size(68, 20);
+            this.expnodejs.TabIndex = 33;
+            // 
+            // label32
+            // 
+            this.label32.AutoSize = true;
+            this.label32.Location = new System.Drawing.Point(3, 7);
+            this.label32.Name = "label32";
+            this.label32.Size = new System.Drawing.Size(70, 13);
+            this.label32.TabIndex = 30;
+            this.label32.Text = "Exp - NodeJs";
             // 
             // panel33
             // 
@@ -476,10 +556,17 @@ namespace Gerenciamento_NewTalents
             this.panel33.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel33.Controls.Add(this.nodejs);
             this.panel33.Controls.Add(this.label33);
-            this.panel33.Location = new System.Drawing.Point(350, 461);
+            this.panel33.Location = new System.Drawing.Point(348, 418);
             this.panel33.Name = "panel33";
             this.panel33.Size = new System.Drawing.Size(247, 21);
             this.panel33.TabIndex = 54;
+            // 
+            // nodejs
+            // 
+            this.nodejs.Location = new System.Drawing.Point(95, 0);
+            this.nodejs.Name = "nodejs";
+            this.nodejs.Size = new System.Drawing.Size(68, 20);
+            this.nodejs.TabIndex = 33;
             // 
             // label33
             // 
@@ -496,10 +583,17 @@ namespace Gerenciamento_NewTalents
             this.panel26.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel26.Controls.Add(this.angularjs);
             this.panel26.Controls.Add(this.label26);
-            this.panel26.Location = new System.Drawing.Point(88, 524);
+            this.panel26.Location = new System.Drawing.Point(86, 481);
             this.panel26.Name = "panel26";
             this.panel26.Size = new System.Drawing.Size(237, 21);
             this.panel26.TabIndex = 53;
+            // 
+            // angularjs
+            // 
+            this.angularjs.Location = new System.Drawing.Point(95, 0);
+            this.angularjs.Name = "angularjs";
+            this.angularjs.Size = new System.Drawing.Size(68, 20);
+            this.angularjs.TabIndex = 33;
             // 
             // label26
             // 
@@ -516,10 +610,17 @@ namespace Gerenciamento_NewTalents
             this.panel27.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel27.Controls.Add(this.jquery);
             this.panel27.Controls.Add(this.label27);
-            this.panel27.Location = new System.Drawing.Point(88, 503);
+            this.panel27.Location = new System.Drawing.Point(86, 460);
             this.panel27.Name = "panel27";
             this.panel27.Size = new System.Drawing.Size(237, 21);
             this.panel27.TabIndex = 52;
+            // 
+            // jquery
+            // 
+            this.jquery.Location = new System.Drawing.Point(95, 0);
+            this.jquery.Name = "jquery";
+            this.jquery.Size = new System.Drawing.Size(68, 20);
+            this.jquery.TabIndex = 33;
             // 
             // label27
             // 
@@ -536,10 +637,17 @@ namespace Gerenciamento_NewTalents
             this.panel28.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel28.Controls.Add(this.bootstrap);
             this.panel28.Controls.Add(this.label28);
-            this.panel28.Location = new System.Drawing.Point(88, 482);
+            this.panel28.Location = new System.Drawing.Point(86, 439);
             this.panel28.Name = "panel28";
             this.panel28.Size = new System.Drawing.Size(237, 21);
             this.panel28.TabIndex = 51;
+            // 
+            // bootstrap
+            // 
+            this.bootstrap.Location = new System.Drawing.Point(95, 0);
+            this.bootstrap.Name = "bootstrap";
+            this.bootstrap.Size = new System.Drawing.Size(68, 20);
+            this.bootstrap.TabIndex = 33;
             // 
             // label28
             // 
@@ -556,10 +664,17 @@ namespace Gerenciamento_NewTalents
             this.panel29.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel29.Controls.Add(this.css);
             this.panel29.Controls.Add(this.label29);
-            this.panel29.Location = new System.Drawing.Point(88, 461);
+            this.panel29.Location = new System.Drawing.Point(86, 418);
             this.panel29.Name = "panel29";
             this.panel29.Size = new System.Drawing.Size(237, 21);
             this.panel29.TabIndex = 50;
+            // 
+            // css
+            // 
+            this.css.Location = new System.Drawing.Point(95, 0);
+            this.css.Name = "css";
+            this.css.Size = new System.Drawing.Size(68, 20);
+            this.css.TabIndex = 33;
             // 
             // label29
             // 
@@ -576,10 +691,17 @@ namespace Gerenciamento_NewTalents
             this.panel18.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel18.Controls.Add(this.mysql);
             this.panel18.Controls.Add(this.label18);
-            this.panel18.Location = new System.Drawing.Point(612, 440);
+            this.panel18.Location = new System.Drawing.Point(610, 376);
             this.panel18.Name = "panel18";
             this.panel18.Size = new System.Drawing.Size(247, 21);
             this.panel18.TabIndex = 49;
+            // 
+            // mysql
+            // 
+            this.mysql.Location = new System.Drawing.Point(95, 0);
+            this.mysql.Name = "mysql";
+            this.mysql.Size = new System.Drawing.Size(68, 20);
+            this.mysql.TabIndex = 33;
             // 
             // label18
             // 
@@ -596,10 +718,17 @@ namespace Gerenciamento_NewTalents
             this.panel19.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel19.Controls.Add(this.mysqlserv);
             this.panel19.Controls.Add(this.label19);
-            this.panel19.Location = new System.Drawing.Point(612, 419);
+            this.panel19.Location = new System.Drawing.Point(610, 355);
             this.panel19.Name = "panel19";
             this.panel19.Size = new System.Drawing.Size(247, 21);
             this.panel19.TabIndex = 48;
+            // 
+            // mysqlserv
+            // 
+            this.mysqlserv.Location = new System.Drawing.Point(95, 0);
+            this.mysqlserv.Name = "mysqlserv";
+            this.mysqlserv.Size = new System.Drawing.Size(68, 20);
+            this.mysqlserv.TabIndex = 33;
             // 
             // label19
             // 
@@ -616,10 +745,17 @@ namespace Gerenciamento_NewTalents
             this.panel20.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel20.Controls.Add(this.ruby);
             this.panel20.Controls.Add(this.label20);
-            this.panel20.Location = new System.Drawing.Point(612, 398);
+            this.panel20.Location = new System.Drawing.Point(610, 334);
             this.panel20.Name = "panel20";
             this.panel20.Size = new System.Drawing.Size(247, 21);
             this.panel20.TabIndex = 47;
+            // 
+            // ruby
+            // 
+            this.ruby.Location = new System.Drawing.Point(95, 0);
+            this.ruby.Name = "ruby";
+            this.ruby.Size = new System.Drawing.Size(68, 20);
+            this.ruby.TabIndex = 33;
             // 
             // label20
             // 
@@ -630,36 +766,23 @@ namespace Gerenciamento_NewTalents
             this.label20.TabIndex = 30;
             this.label20.Text = "Ruby ";
             // 
-            // panel21
-            // 
-            this.panel21.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.panel21.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel21.Controls.Add(this.phyton);
-            this.panel21.Controls.Add(this.label21);
-            this.panel21.Location = new System.Drawing.Point(612, 377);
-            this.panel21.Name = "panel21";
-            this.panel21.Size = new System.Drawing.Size(247, 21);
-            this.panel21.TabIndex = 46;
-            // 
-            // label21
-            // 
-            this.label21.AutoSize = true;
-            this.label21.Location = new System.Drawing.Point(3, 7);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(43, 13);
-            this.label21.TabIndex = 30;
-            this.label21.Text = "Phyton ";
-            // 
             // panel22
             // 
             this.panel22.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.panel22.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel22.Controls.Add(this.wordpress);
             this.panel22.Controls.Add(this.label22);
-            this.panel22.Location = new System.Drawing.Point(612, 356);
+            this.panel22.Location = new System.Drawing.Point(610, 313);
             this.panel22.Name = "panel22";
             this.panel22.Size = new System.Drawing.Size(247, 21);
             this.panel22.TabIndex = 45;
+            // 
+            // wordpress
+            // 
+            this.wordpress.Location = new System.Drawing.Point(95, 0);
+            this.wordpress.Name = "wordpress";
+            this.wordpress.Size = new System.Drawing.Size(68, 20);
+            this.wordpress.TabIndex = 33;
             // 
             // label22
             // 
@@ -676,10 +799,17 @@ namespace Gerenciamento_NewTalents
             this.panel23.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel23.Controls.Add(this.vue);
             this.panel23.Controls.Add(this.label23);
-            this.panel23.Location = new System.Drawing.Point(612, 335);
+            this.panel23.Location = new System.Drawing.Point(610, 292);
             this.panel23.Name = "panel23";
             this.panel23.Size = new System.Drawing.Size(247, 21);
             this.panel23.TabIndex = 44;
+            // 
+            // vue
+            // 
+            this.vue.Location = new System.Drawing.Point(95, 0);
+            this.vue.Name = "vue";
+            this.vue.Size = new System.Drawing.Size(68, 20);
+            this.vue.TabIndex = 33;
             // 
             // label23
             // 
@@ -696,10 +826,17 @@ namespace Gerenciamento_NewTalents
             this.panel24.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel24.Controls.Add(this.php);
             this.panel24.Controls.Add(this.label24);
-            this.panel24.Location = new System.Drawing.Point(612, 314);
+            this.panel24.Location = new System.Drawing.Point(610, 271);
             this.panel24.Name = "panel24";
             this.panel24.Size = new System.Drawing.Size(247, 21);
             this.panel24.TabIndex = 43;
+            // 
+            // php
+            // 
+            this.php.Location = new System.Drawing.Point(95, 0);
+            this.php.Name = "php";
+            this.php.Size = new System.Drawing.Size(68, 20);
+            this.php.TabIndex = 33;
             // 
             // label24
             // 
@@ -716,10 +853,17 @@ namespace Gerenciamento_NewTalents
             this.panel25.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel25.Controls.Add(this.majento);
             this.panel25.Controls.Add(this.label25);
-            this.panel25.Location = new System.Drawing.Point(612, 293);
+            this.panel25.Location = new System.Drawing.Point(610, 250);
             this.panel25.Name = "panel25";
             this.panel25.Size = new System.Drawing.Size(247, 21);
             this.panel25.TabIndex = 42;
+            // 
+            // majento
+            // 
+            this.majento.Location = new System.Drawing.Point(95, 0);
+            this.majento.Name = "majento";
+            this.majento.Size = new System.Drawing.Size(68, 20);
+            this.majento.TabIndex = 33;
             // 
             // label25
             // 
@@ -736,10 +880,17 @@ namespace Gerenciamento_NewTalents
             this.panel10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel10.Controls.Add(this.csharp);
             this.panel10.Controls.Add(this.label10);
-            this.panel10.Location = new System.Drawing.Point(350, 440);
+            this.panel10.Location = new System.Drawing.Point(348, 397);
             this.panel10.Name = "panel10";
             this.panel10.Size = new System.Drawing.Size(247, 21);
             this.panel10.TabIndex = 41;
+            // 
+            // csharp
+            // 
+            this.csharp.Location = new System.Drawing.Point(95, 0);
+            this.csharp.Name = "csharp";
+            this.csharp.Size = new System.Drawing.Size(68, 20);
+            this.csharp.TabIndex = 33;
             // 
             // label10
             // 
@@ -756,10 +907,17 @@ namespace Gerenciamento_NewTalents
             this.panel11.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel11.Controls.Add(this.c);
             this.panel11.Controls.Add(this.label11);
-            this.panel11.Location = new System.Drawing.Point(350, 419);
+            this.panel11.Location = new System.Drawing.Point(348, 376);
             this.panel11.Name = "panel11";
             this.panel11.Size = new System.Drawing.Size(247, 21);
             this.panel11.TabIndex = 40;
+            // 
+            // c
+            // 
+            this.c.Location = new System.Drawing.Point(95, 0);
+            this.c.Name = "c";
+            this.c.Size = new System.Drawing.Size(68, 20);
+            this.c.TabIndex = 33;
             // 
             // label11
             // 
@@ -776,10 +934,17 @@ namespace Gerenciamento_NewTalents
             this.panel12.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel12.Controls.Add(this.aspnetwf);
             this.panel12.Controls.Add(this.label12);
-            this.panel12.Location = new System.Drawing.Point(350, 398);
+            this.panel12.Location = new System.Drawing.Point(348, 355);
             this.panel12.Name = "panel12";
             this.panel12.Size = new System.Drawing.Size(247, 21);
             this.panel12.TabIndex = 39;
+            // 
+            // aspnetwf
+            // 
+            this.aspnetwf.Location = new System.Drawing.Point(95, 0);
+            this.aspnetwf.Name = "aspnetwf";
+            this.aspnetwf.Size = new System.Drawing.Size(68, 20);
+            this.aspnetwf.TabIndex = 33;
             // 
             // label12
             // 
@@ -796,10 +961,17 @@ namespace Gerenciamento_NewTalents
             this.panel13.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel13.Controls.Add(this.aspnetmvc);
             this.panel13.Controls.Add(this.label13);
-            this.panel13.Location = new System.Drawing.Point(350, 377);
+            this.panel13.Location = new System.Drawing.Point(348, 334);
             this.panel13.Name = "panel13";
             this.panel13.Size = new System.Drawing.Size(247, 21);
             this.panel13.TabIndex = 38;
+            // 
+            // aspnetmvc
+            // 
+            this.aspnetmvc.Location = new System.Drawing.Point(95, 0);
+            this.aspnetmvc.Name = "aspnetmvc";
+            this.aspnetmvc.Size = new System.Drawing.Size(68, 20);
+            this.aspnetmvc.TabIndex = 33;
             // 
             // label13
             // 
@@ -816,10 +988,17 @@ namespace Gerenciamento_NewTalents
             this.panel14.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel14.Controls.Add(this.flask);
             this.panel14.Controls.Add(this.label14);
-            this.panel14.Location = new System.Drawing.Point(350, 356);
+            this.panel14.Location = new System.Drawing.Point(348, 313);
             this.panel14.Name = "panel14";
             this.panel14.Size = new System.Drawing.Size(247, 21);
             this.panel14.TabIndex = 37;
+            // 
+            // flask
+            // 
+            this.flask.Location = new System.Drawing.Point(95, 0);
+            this.flask.Name = "flask";
+            this.flask.Size = new System.Drawing.Size(68, 20);
+            this.flask.TabIndex = 33;
             // 
             // label14
             // 
@@ -836,7 +1015,7 @@ namespace Gerenciamento_NewTalents
             this.panel15.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel15.Controls.Add(this.python);
             this.panel15.Controls.Add(this.label15);
-            this.panel15.Location = new System.Drawing.Point(350, 335);
+            this.panel15.Location = new System.Drawing.Point(348, 292);
             this.panel15.Name = "panel15";
             this.panel15.Size = new System.Drawing.Size(247, 21);
             this.panel15.TabIndex = 36;
@@ -856,7 +1035,7 @@ namespace Gerenciamento_NewTalents
             this.panel16.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel16.Controls.Add(this.java);
             this.panel16.Controls.Add(this.label16);
-            this.panel16.Location = new System.Drawing.Point(350, 314);
+            this.panel16.Location = new System.Drawing.Point(348, 271);
             this.panel16.Name = "panel16";
             this.panel16.Size = new System.Drawing.Size(247, 21);
             this.panel16.TabIndex = 35;
@@ -876,10 +1055,17 @@ namespace Gerenciamento_NewTalents
             this.panel17.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel17.Controls.Add(this.angular);
             this.panel17.Controls.Add(this.label17);
-            this.panel17.Location = new System.Drawing.Point(350, 293);
+            this.panel17.Location = new System.Drawing.Point(348, 250);
             this.panel17.Name = "panel17";
             this.panel17.Size = new System.Drawing.Size(247, 21);
             this.panel17.TabIndex = 34;
+            // 
+            // angular
+            // 
+            this.angular.Location = new System.Drawing.Point(95, 0);
+            this.angular.Name = "angular";
+            this.angular.Size = new System.Drawing.Size(68, 20);
+            this.angular.TabIndex = 33;
             // 
             // label17
             // 
@@ -896,10 +1082,17 @@ namespace Gerenciamento_NewTalents
             this.panel6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel6.Controls.Add(this.html);
             this.panel6.Controls.Add(this.label6);
-            this.panel6.Location = new System.Drawing.Point(88, 440);
+            this.panel6.Location = new System.Drawing.Point(86, 397);
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(237, 21);
             this.panel6.TabIndex = 33;
+            // 
+            // html
+            // 
+            this.html.Location = new System.Drawing.Point(95, 0);
+            this.html.Name = "html";
+            this.html.Size = new System.Drawing.Size(68, 20);
+            this.html.TabIndex = 33;
             // 
             // label6
             // 
@@ -916,10 +1109,17 @@ namespace Gerenciamento_NewTalents
             this.panel7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel7.Controls.Add(this.ios);
             this.panel7.Controls.Add(this.label7);
-            this.panel7.Location = new System.Drawing.Point(88, 419);
+            this.panel7.Location = new System.Drawing.Point(86, 376);
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(237, 21);
             this.panel7.TabIndex = 32;
+            // 
+            // ios
+            // 
+            this.ios.Location = new System.Drawing.Point(95, 0);
+            this.ios.Name = "ios";
+            this.ios.Size = new System.Drawing.Size(68, 20);
+            this.ios.TabIndex = 33;
             // 
             // label7
             // 
@@ -936,10 +1136,17 @@ namespace Gerenciamento_NewTalents
             this.panel8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel8.Controls.Add(this.swift);
             this.panel8.Controls.Add(this.label8);
-            this.panel8.Location = new System.Drawing.Point(88, 398);
+            this.panel8.Location = new System.Drawing.Point(86, 355);
             this.panel8.Name = "panel8";
             this.panel8.Size = new System.Drawing.Size(237, 21);
             this.panel8.TabIndex = 31;
+            // 
+            // swift
+            // 
+            this.swift.Location = new System.Drawing.Point(95, 0);
+            this.swift.Name = "swift";
+            this.swift.Size = new System.Drawing.Size(68, 20);
+            this.swift.TabIndex = 33;
             // 
             // label8
             // 
@@ -956,10 +1163,17 @@ namespace Gerenciamento_NewTalents
             this.panel9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel9.Controls.Add(this.flutter);
             this.panel9.Controls.Add(this.label9);
-            this.panel9.Location = new System.Drawing.Point(88, 377);
+            this.panel9.Location = new System.Drawing.Point(86, 334);
             this.panel9.Name = "panel9";
             this.panel9.Size = new System.Drawing.Size(237, 21);
             this.panel9.TabIndex = 30;
+            // 
+            // flutter
+            // 
+            this.flutter.Location = new System.Drawing.Point(95, 0);
+            this.flutter.Name = "flutter";
+            this.flutter.Size = new System.Drawing.Size(68, 20);
+            this.flutter.TabIndex = 33;
             // 
             // label9
             // 
@@ -976,10 +1190,17 @@ namespace Gerenciamento_NewTalents
             this.panel4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel4.Controls.Add(this.android);
             this.panel4.Controls.Add(this.label4);
-            this.panel4.Location = new System.Drawing.Point(88, 356);
+            this.panel4.Location = new System.Drawing.Point(86, 313);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(237, 21);
             this.panel4.TabIndex = 29;
+            // 
+            // android
+            // 
+            this.android.Location = new System.Drawing.Point(95, 0);
+            this.android.Name = "android";
+            this.android.Size = new System.Drawing.Size(68, 20);
+            this.android.TabIndex = 33;
             // 
             // label4
             // 
@@ -996,10 +1217,17 @@ namespace Gerenciamento_NewTalents
             this.panel5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel5.Controls.Add(this.reactnative);
             this.panel5.Controls.Add(this.label5);
-            this.panel5.Location = new System.Drawing.Point(88, 335);
+            this.panel5.Location = new System.Drawing.Point(86, 292);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(237, 21);
             this.panel5.TabIndex = 28;
+            // 
+            // reactnative
+            // 
+            this.reactnative.Location = new System.Drawing.Point(95, 0);
+            this.reactnative.Name = "reactnative";
+            this.reactnative.Size = new System.Drawing.Size(68, 20);
+            this.reactnative.TabIndex = 33;
             // 
             // label5
             // 
@@ -1016,10 +1244,17 @@ namespace Gerenciamento_NewTalents
             this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel3.Controls.Add(this.reactjs);
             this.panel3.Controls.Add(this.label3);
-            this.panel3.Location = new System.Drawing.Point(88, 314);
+            this.panel3.Location = new System.Drawing.Point(86, 271);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(237, 21);
             this.panel3.TabIndex = 27;
+            // 
+            // reactjs
+            // 
+            this.reactjs.Location = new System.Drawing.Point(95, 0);
+            this.reactjs.Name = "reactjs";
+            this.reactjs.Size = new System.Drawing.Size(68, 20);
+            this.reactjs.TabIndex = 33;
             // 
             // label3
             // 
@@ -1036,10 +1271,17 @@ namespace Gerenciamento_NewTalents
             this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel2.Controls.Add(this.ionic);
             this.panel2.Controls.Add(this.label2);
-            this.panel2.Location = new System.Drawing.Point(88, 293);
+            this.panel2.Location = new System.Drawing.Point(86, 250);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(237, 21);
             this.panel2.TabIndex = 26;
+            // 
+            // ionic
+            // 
+            this.ionic.Location = new System.Drawing.Point(95, 0);
+            this.ionic.Name = "ionic";
+            this.ionic.Size = new System.Drawing.Size(68, 20);
+            this.ionic.TabIndex = 33;
             // 
             // label2
             // 
@@ -1066,22 +1308,6 @@ namespace Gerenciamento_NewTalents
             this.txtSalario.Size = new System.Drawing.Size(196, 20);
             this.txtSalario.TabIndex = 18;
             // 
-            // chkPreferencia_horario
-            // 
-            this.chkPreferencia_horario.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.chkPreferencia_horario.FormattingEnabled = true;
-            this.chkPreferencia_horario.Items.AddRange(new object[] {
-            "Manhã (de 08:00 ás 12:00)",
-            "Tarde (de 13:00 ás 18:00)",
-            "Noite (de 19:00 as 22:00)",
-            "Madrugada (de 22:00 em diante)",
-            "Comercial (de 08:00 as 18:00)"});
-            this.chkPreferencia_horario.Location = new System.Drawing.Point(627, 144);
-            this.chkPreferencia_horario.Name = "chkPreferencia_horario";
-            this.chkPreferencia_horario.Size = new System.Drawing.Size(370, 79);
-            this.chkPreferencia_horario.TabIndex = 17;
-            // 
             // lblHorario
             // 
             this.lblHorario.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
@@ -1092,22 +1318,6 @@ namespace Gerenciamento_NewTalents
             this.lblHorario.Size = new System.Drawing.Size(113, 13);
             this.lblHorario.TabIndex = 16;
             this.lblHorario.Text = "Preferência de Horário";
-            // 
-            // chkDisponibilidade_hora
-            // 
-            this.chkDisponibilidade_hora.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.chkDisponibilidade_hora.FormattingEnabled = true;
-            this.chkDisponibilidade_hora.Items.AddRange(new object[] {
-            "Até 4 horas por dia",
-            "De 4 á 6 horas por dia",
-            "De 6 á 8 horas por dia",
-            "Acima de 8 horas por dia",
-            "Apenas finais de semana"});
-            this.chkDisponibilidade_hora.Location = new System.Drawing.Point(11, 144);
-            this.chkDisponibilidade_hora.Name = "chkDisponibilidade_hora";
-            this.chkDisponibilidade_hora.Size = new System.Drawing.Size(390, 79);
-            this.chkDisponibilidade_hora.TabIndex = 15;
             // 
             // lblCargaHoraria
             // 
@@ -1232,7 +1442,7 @@ namespace Gerenciamento_NewTalents
             this.lbl_Email.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.lbl_Email.AutoSize = true;
-            this.lbl_Email.Location = new System.Drawing.Point(6, 9);
+            this.lbl_Email.Location = new System.Drawing.Point(114, 9);
             this.lbl_Email.Name = "lbl_Email";
             this.lbl_Email.Size = new System.Drawing.Size(35, 13);
             this.lbl_Email.TabIndex = 1;
@@ -1242,75 +1452,60 @@ namespace Gerenciamento_NewTalents
             // 
             this.txtEmail.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtEmail.Location = new System.Drawing.Point(9, 25);
+            this.txtEmail.Location = new System.Drawing.Point(117, 25);
             this.txtEmail.Name = "txtEmail";
-            this.txtEmail.Size = new System.Drawing.Size(423, 20);
+            this.txtEmail.Size = new System.Drawing.Size(315, 20);
             this.txtEmail.TabIndex = 0;
             // 
-            // label32
+            // chkQuatro
             // 
-            this.label32.AutoSize = true;
-            this.label32.Location = new System.Drawing.Point(3, 7);
-            this.label32.Name = "label32";
-            this.label32.Size = new System.Drawing.Size(70, 13);
-            this.label32.TabIndex = 30;
-            this.label32.Text = "Exp - NodeJs";
+            this.chkQuatro.AutoSize = true;
+            this.chkQuatro.Location = new System.Drawing.Point(9, 144);
+            this.chkQuatro.Name = "chkQuatro";
+            this.chkQuatro.Size = new System.Drawing.Size(115, 17);
+            this.chkQuatro.TabIndex = 67;
+            this.chkQuatro.Text = "Até 4 horas por dia";
+            this.chkQuatro.UseVisualStyleBackColor = true;
             // 
-            // ios
+            // chkQuatroaSeis
             // 
-            this.ios.Location = new System.Drawing.Point(95, 0);
-            this.ios.Name = "ios";
-            this.ios.Size = new System.Drawing.Size(68, 20);
-            this.ios.TabIndex = 33;
+            this.chkQuatroaSeis.AutoSize = true;
+            this.chkQuatroaSeis.Location = new System.Drawing.Point(9, 160);
+            this.chkQuatroaSeis.Name = "chkQuatroaSeis";
+            this.chkQuatroaSeis.Size = new System.Drawing.Size(131, 17);
+            this.chkQuatroaSeis.TabIndex = 68;
+            this.chkQuatroaSeis.Text = "De 4 a 6 horas por dia";
+            this.chkQuatroaSeis.UseVisualStyleBackColor = true;
             // 
-            // html
+            // chkAcimaOito
             // 
-            this.html.Location = new System.Drawing.Point(95, 0);
-            this.html.Name = "html";
-            this.html.Size = new System.Drawing.Size(68, 20);
-            this.html.TabIndex = 33;
+            this.chkAcimaOito.AutoSize = true;
+            this.chkAcimaOito.Location = new System.Drawing.Point(9, 192);
+            this.chkAcimaOito.Name = "chkAcimaOito";
+            this.chkAcimaOito.Size = new System.Drawing.Size(143, 17);
+            this.chkAcimaOito.TabIndex = 70;
+            this.chkAcimaOito.Text = "Acima de 8 horas por dia";
+            this.chkAcimaOito.UseVisualStyleBackColor = true;
             // 
-            // css
+            // chkSeisaOito
             // 
-            this.css.Location = new System.Drawing.Point(95, 0);
-            this.css.Name = "css";
-            this.css.Size = new System.Drawing.Size(68, 20);
-            this.css.TabIndex = 33;
+            this.chkSeisaOito.AutoSize = true;
+            this.chkSeisaOito.Location = new System.Drawing.Point(9, 176);
+            this.chkSeisaOito.Name = "chkSeisaOito";
+            this.chkSeisaOito.Size = new System.Drawing.Size(131, 17);
+            this.chkSeisaOito.TabIndex = 69;
+            this.chkSeisaOito.Text = "De 6 a 8 horas por dia";
+            this.chkSeisaOito.UseVisualStyleBackColor = true;
             // 
-            // bootstrap
+            // chkFinaisSemana
             // 
-            this.bootstrap.Location = new System.Drawing.Point(95, 0);
-            this.bootstrap.Name = "bootstrap";
-            this.bootstrap.Size = new System.Drawing.Size(68, 20);
-            this.bootstrap.TabIndex = 33;
-            // 
-            // jquery
-            // 
-            this.jquery.Location = new System.Drawing.Point(95, 0);
-            this.jquery.Name = "jquery";
-            this.jquery.Size = new System.Drawing.Size(68, 20);
-            this.jquery.TabIndex = 33;
-            // 
-            // angularjs
-            // 
-            this.angularjs.Location = new System.Drawing.Point(95, 0);
-            this.angularjs.Name = "angularjs";
-            this.angularjs.Size = new System.Drawing.Size(68, 20);
-            this.angularjs.TabIndex = 33;
-            // 
-            // seo
-            // 
-            this.seo.Location = new System.Drawing.Point(95, 0);
-            this.seo.Name = "seo";
-            this.seo.Size = new System.Drawing.Size(68, 20);
-            this.seo.TabIndex = 33;
-            // 
-            // angular
-            // 
-            this.angular.Location = new System.Drawing.Point(95, 0);
-            this.angular.Name = "angular";
-            this.angular.Size = new System.Drawing.Size(68, 20);
-            this.angular.TabIndex = 33;
+            this.chkFinaisSemana.AutoSize = true;
+            this.chkFinaisSemana.Location = new System.Drawing.Point(9, 208);
+            this.chkFinaisSemana.Name = "chkFinaisSemana";
+            this.chkFinaisSemana.Size = new System.Drawing.Size(149, 17);
+            this.chkFinaisSemana.TabIndex = 71;
+            this.chkFinaisSemana.Text = "Apenas Finais de Semana";
+            this.chkFinaisSemana.UseVisualStyleBackColor = true;
             // 
             // java
             // 
@@ -1319,211 +1514,91 @@ namespace Gerenciamento_NewTalents
             this.java.Size = new System.Drawing.Size(68, 20);
             this.java.TabIndex = 33;
             // 
+            // chkComercial
+            // 
+            this.chkComercial.AutoSize = true;
+            this.chkComercial.Location = new System.Drawing.Point(627, 208);
+            this.chkComercial.Name = "chkComercial";
+            this.chkComercial.Size = new System.Drawing.Size(167, 17);
+            this.chkComercial.TabIndex = 76;
+            this.chkComercial.Text = "Comercial (de 08:00 às 18:00)";
+            this.chkComercial.UseVisualStyleBackColor = true;
+            // 
+            // chkMadrugada
+            // 
+            this.chkMadrugada.AutoSize = true;
+            this.chkMadrugada.Location = new System.Drawing.Point(627, 192);
+            this.chkMadrugada.Name = "chkMadrugada";
+            this.chkMadrugada.Size = new System.Drawing.Size(180, 17);
+            this.chkMadrugada.TabIndex = 75;
+            this.chkMadrugada.Text = "Madrugada (de 22:00 em diante)";
+            this.chkMadrugada.UseVisualStyleBackColor = true;
+            // 
+            // chkNoite
+            // 
+            this.chkNoite.AutoSize = true;
+            this.chkNoite.Location = new System.Drawing.Point(627, 176);
+            this.chkNoite.Name = "chkNoite";
+            this.chkNoite.Size = new System.Drawing.Size(146, 17);
+            this.chkNoite.TabIndex = 74;
+            this.chkNoite.Text = "Noite (de 19:00 às 22:00)";
+            this.chkNoite.UseVisualStyleBackColor = true;
+            // 
+            // chkTarde
+            // 
+            this.chkTarde.AutoSize = true;
+            this.chkTarde.Location = new System.Drawing.Point(627, 160);
+            this.chkTarde.Name = "chkTarde";
+            this.chkTarde.Size = new System.Drawing.Size(149, 17);
+            this.chkTarde.TabIndex = 73;
+            this.chkTarde.Text = "Tarde (de 13:00 às 18:00)";
+            this.chkTarde.UseVisualStyleBackColor = true;
+            // 
+            // chkManha
+            // 
+            this.chkManha.AutoSize = true;
+            this.chkManha.Location = new System.Drawing.Point(627, 144);
+            this.chkManha.Name = "chkManha";
+            this.chkManha.Size = new System.Drawing.Size(154, 17);
+            this.chkManha.TabIndex = 72;
+            this.chkManha.Text = "Manha (de 08:00 às 12:00)";
+            this.chkManha.UseVisualStyleBackColor = true;
+            // 
+            // label40
+            // 
+            this.label40.AutoSize = true;
+            this.label40.Location = new System.Drawing.Point(8, 9);
+            this.label40.Name = "label40";
+            this.label40.Size = new System.Drawing.Size(18, 13);
+            this.label40.TabIndex = 78;
+            this.label40.Text = "ID";
+            // 
+            // txtId
+            // 
+            this.txtId.Enabled = false;
+            this.txtId.Location = new System.Drawing.Point(9, 25);
+            this.txtId.Name = "txtId";
+            this.txtId.Size = new System.Drawing.Size(102, 20);
+            this.txtId.TabIndex = 77;
+            // 
             // python
             // 
-            this.python.Location = new System.Drawing.Point(95, 0);
+            this.python.Location = new System.Drawing.Point(95, -1);
             this.python.Name = "python";
             this.python.Size = new System.Drawing.Size(68, 20);
-            this.python.TabIndex = 33;
+            this.python.TabIndex = 34;
             // 
-            // flask
-            // 
-            this.flask.Location = new System.Drawing.Point(95, 0);
-            this.flask.Name = "flask";
-            this.flask.Size = new System.Drawing.Size(68, 20);
-            this.flask.TabIndex = 33;
-            // 
-            // aspnetmvc
-            // 
-            this.aspnetmvc.Location = new System.Drawing.Point(95, 0);
-            this.aspnetmvc.Name = "aspnetmvc";
-            this.aspnetmvc.Size = new System.Drawing.Size(68, 20);
-            this.aspnetmvc.TabIndex = 33;
-            // 
-            // aspnetwf
-            // 
-            this.aspnetwf.Location = new System.Drawing.Point(95, 0);
-            this.aspnetwf.Name = "aspnetwf";
-            this.aspnetwf.Size = new System.Drawing.Size(68, 20);
-            this.aspnetwf.TabIndex = 33;
-            // 
-            // c
-            // 
-            this.c.Location = new System.Drawing.Point(95, 0);
-            this.c.Name = "c";
-            this.c.Size = new System.Drawing.Size(68, 20);
-            this.c.TabIndex = 33;
-            // 
-            // csharp
-            // 
-            this.csharp.Location = new System.Drawing.Point(95, 0);
-            this.csharp.Name = "csharp";
-            this.csharp.Size = new System.Drawing.Size(68, 20);
-            this.csharp.TabIndex = 33;
-            // 
-            // nodejs
-            // 
-            this.nodejs.Location = new System.Drawing.Point(95, 0);
-            this.nodejs.Name = "nodejs";
-            this.nodejs.Size = new System.Drawing.Size(68, 20);
-            this.nodejs.TabIndex = 33;
-            // 
-            // expnodejs
-            // 
-            this.expnodejs.Location = new System.Drawing.Point(95, 0);
-            this.expnodejs.Name = "expnodejs";
-            this.expnodejs.Size = new System.Drawing.Size(68, 20);
-            this.expnodejs.TabIndex = 33;
-            // 
-            // cake
-            // 
-            this.cake.Location = new System.Drawing.Point(95, 0);
-            this.cake.Name = "cake";
-            this.cake.Size = new System.Drawing.Size(68, 20);
-            this.cake.TabIndex = 33;
-            // 
-            // django
-            // 
-            this.django.Location = new System.Drawing.Point(95, 0);
-            this.django.Name = "django";
-            this.django.Size = new System.Drawing.Size(68, 20);
-            this.django.TabIndex = 33;
-            // 
-            // laravel
-            // 
-            this.laravel.Location = new System.Drawing.Point(95, 0);
-            this.laravel.Name = "laravel";
-            this.laravel.Size = new System.Drawing.Size(68, 20);
-            this.laravel.TabIndex = 33;
-            // 
-            // majento
-            // 
-            this.majento.Location = new System.Drawing.Point(95, 0);
-            this.majento.Name = "majento";
-            this.majento.Size = new System.Drawing.Size(68, 20);
-            this.majento.TabIndex = 33;
-            // 
-            // php
-            // 
-            this.php.Location = new System.Drawing.Point(95, 0);
-            this.php.Name = "php";
-            this.php.Size = new System.Drawing.Size(68, 20);
-            this.php.TabIndex = 33;
-            // 
-            // vue
-            // 
-            this.vue.Location = new System.Drawing.Point(95, 0);
-            this.vue.Name = "vue";
-            this.vue.Size = new System.Drawing.Size(68, 20);
-            this.vue.TabIndex = 33;
-            // 
-            // wordpress
-            // 
-            this.wordpress.Location = new System.Drawing.Point(95, 0);
-            this.wordpress.Name = "wordpress";
-            this.wordpress.Size = new System.Drawing.Size(68, 20);
-            this.wordpress.TabIndex = 33;
-            // 
-            // phyton
-            // 
-            this.phyton.Location = new System.Drawing.Point(95, 0);
-            this.phyton.Name = "phyton";
-            this.phyton.Size = new System.Drawing.Size(68, 20);
-            this.phyton.TabIndex = 33;
-            // 
-            // ruby
-            // 
-            this.ruby.Location = new System.Drawing.Point(95, 0);
-            this.ruby.Name = "ruby";
-            this.ruby.Size = new System.Drawing.Size(68, 20);
-            this.ruby.TabIndex = 33;
-            // 
-            // mysqlserv
-            // 
-            this.mysqlserv.Location = new System.Drawing.Point(95, 0);
-            this.mysqlserv.Name = "mysqlserv";
-            this.mysqlserv.Size = new System.Drawing.Size(68, 20);
-            this.mysqlserv.TabIndex = 33;
-            // 
-            // mysql
-            // 
-            this.mysql.Location = new System.Drawing.Point(95, 0);
-            this.mysql.Name = "mysql";
-            this.mysql.Size = new System.Drawing.Size(68, 20);
-            this.mysql.TabIndex = 33;
-            // 
-            // salesforce
-            // 
-            this.salesforce.Location = new System.Drawing.Point(95, 0);
-            this.salesforce.Name = "salesforce";
-            this.salesforce.Size = new System.Drawing.Size(68, 20);
-            this.salesforce.TabIndex = 33;
-            // 
-            // photoshop
-            // 
-            this.photoshop.Location = new System.Drawing.Point(95, 0);
-            this.photoshop.Name = "photoshop";
-            this.photoshop.Size = new System.Drawing.Size(68, 20);
-            this.photoshop.TabIndex = 33;
-            // 
-            // illustrator
-            // 
-            this.illustrator.Location = new System.Drawing.Point(95, 0);
-            this.illustrator.Name = "illustrator";
-            this.illustrator.Size = new System.Drawing.Size(68, 20);
-            this.illustrator.TabIndex = 33;
-            // 
-            // ionic
-            // 
-            this.ionic.Location = new System.Drawing.Point(95, 0);
-            this.ionic.Name = "ionic";
-            this.ionic.Size = new System.Drawing.Size(68, 20);
-            this.ionic.TabIndex = 33;
-            // 
-            // reactjs
-            // 
-            this.reactjs.Location = new System.Drawing.Point(95, 0);
-            this.reactjs.Name = "reactjs";
-            this.reactjs.Size = new System.Drawing.Size(68, 20);
-            this.reactjs.TabIndex = 33;
-            // 
-            // reactnative
-            // 
-            this.reactnative.Location = new System.Drawing.Point(95, 0);
-            this.reactnative.Name = "reactnative";
-            this.reactnative.Size = new System.Drawing.Size(68, 20);
-            this.reactnative.TabIndex = 33;
-            // 
-            // flutter
-            // 
-            this.flutter.Location = new System.Drawing.Point(95, 0);
-            this.flutter.Name = "flutter";
-            this.flutter.Size = new System.Drawing.Size(68, 20);
-            this.flutter.TabIndex = 33;
-            // 
-            // android
-            // 
-            this.android.Location = new System.Drawing.Point(95, 0);
-            this.android.Name = "android";
-            this.android.Size = new System.Drawing.Size(68, 20);
-            this.android.TabIndex = 33;
-            // 
-            // swift
-            // 
-            this.swift.Location = new System.Drawing.Point(95, 0);
-            this.swift.Name = "swift";
-            this.swift.Size = new System.Drawing.Size(68, 20);
-            this.swift.TabIndex = 33;
-            // 
-            // NewTalent
+            // CadastroTalents
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1001, 616);
             this.Controls.Add(this.panelNewTalent);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
-            this.Name = "NewTalent";
-            this.Text = "NewTalent";
+            this.Name = "CadastroTalents";
+            this.Text = "Cadastro Talent";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.Load += new System.EventHandler(this.CadastroTalents_Load);
             this.panelNewTalent.ResumeLayout(false);
             this.panelNewTalent.PerformLayout();
             this.panel38.ResumeLayout(false);
@@ -1558,8 +1633,6 @@ namespace Gerenciamento_NewTalents
             this.panel19.PerformLayout();
             this.panel20.ResumeLayout(false);
             this.panel20.PerformLayout();
-            this.panel21.ResumeLayout(false);
-            this.panel21.PerformLayout();
             this.panel22.ResumeLayout(false);
             this.panel22.PerformLayout();
             this.panel23.ResumeLayout(false);
@@ -1607,103 +1680,41 @@ namespace Gerenciamento_NewTalents
         #endregion
 
         private System.Windows.Forms.Panel panelNewTalent;
-        private System.Windows.Forms.Button salvar;
-        private System.Windows.Forms.TextBox outras;
-        private System.Windows.Forms.Label label39;
-        private System.Windows.Forms.Panel panel38;
         private System.Windows.Forms.Label label38;
-        private System.Windows.Forms.Panel panel34;
         private System.Windows.Forms.Label label34;
-        private System.Windows.Forms.Panel panel35;
         private System.Windows.Forms.Label label35;
-        private System.Windows.Forms.Panel panel36;
         private System.Windows.Forms.Label label36;
-        private System.Windows.Forms.Panel panel37;
         private System.Windows.Forms.Label label37;
-        private System.Windows.Forms.Panel panel30;
         private System.Windows.Forms.Label label30;
-        private System.Windows.Forms.Panel panel31;
         private System.Windows.Forms.Label label31;
-        private System.Windows.Forms.Panel panel32;
-        private System.Windows.Forms.Panel panel33;
         private System.Windows.Forms.Label label33;
-        private System.Windows.Forms.Panel panel26;
         private System.Windows.Forms.Label label26;
-        private System.Windows.Forms.Panel panel27;
         private System.Windows.Forms.Label label27;
-        private System.Windows.Forms.Panel panel28;
         private System.Windows.Forms.Label label28;
-        private System.Windows.Forms.Panel panel29;
         private System.Windows.Forms.Label label29;
-        private System.Windows.Forms.Panel panel18;
         private System.Windows.Forms.Label label18;
-        private System.Windows.Forms.Panel panel19;
         private System.Windows.Forms.Label label19;
-        private System.Windows.Forms.Panel panel20;
         private System.Windows.Forms.Label label20;
-        private System.Windows.Forms.Panel panel21;
-        private System.Windows.Forms.Label label21;
-        private System.Windows.Forms.Panel panel22;
         private System.Windows.Forms.Label label22;
-        private System.Windows.Forms.Panel panel23;
         private System.Windows.Forms.Label label23;
-        private System.Windows.Forms.Panel panel24;
         private System.Windows.Forms.Label label24;
-        private System.Windows.Forms.Panel panel25;
         private System.Windows.Forms.Label label25;
-        private System.Windows.Forms.Panel panel10;
         private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Panel panel11;
         private System.Windows.Forms.Label label11;
-        private System.Windows.Forms.Panel panel12;
         private System.Windows.Forms.Label label12;
-        private System.Windows.Forms.Panel panel13;
         private System.Windows.Forms.Label label13;
-        private System.Windows.Forms.Panel panel14;
         private System.Windows.Forms.Label label14;
-        private System.Windows.Forms.Panel panel15;
         private System.Windows.Forms.Label label15;
-        private System.Windows.Forms.Panel panel16;
         private System.Windows.Forms.Label label16;
-        private System.Windows.Forms.Panel panel17;
         private System.Windows.Forms.Label label17;
-        private System.Windows.Forms.Panel panel6;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Panel panel7;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Panel panel8;
         private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Panel panel9;
         private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Panel panel4;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Panel panel5;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label lblSalario;
-        private System.Windows.Forms.TextBox txtSalario;
-        private System.Windows.Forms.CheckedListBox chkPreferencia_horario;
-        private System.Windows.Forms.Label lblHorario;
-        private System.Windows.Forms.CheckedListBox chkDisponibilidade_hora;
-        private System.Windows.Forms.Label lblCargaHoraria;
-        private System.Windows.Forms.Label lblPortfolio;
-        private System.Windows.Forms.TextBox txtPortfolio;
-        private System.Windows.Forms.Label lblEstado;
-        private System.Windows.Forms.TextBox txtEstado;
-        private System.Windows.Forms.Label lblCidade;
-        private System.Windows.Forms.TextBox txtCidade;
-        private System.Windows.Forms.Label lblLinkedin;
-        private System.Windows.Forms.TextBox txtLinkedin;
-        private System.Windows.Forms.Label lblFone;
-        private System.Windows.Forms.MaskedTextBox txtFone;
-        private System.Windows.Forms.Label lblNome;
-        private System.Windows.Forms.TextBox txtNome;
-        private System.Windows.Forms.Label lbl_Email;
-        private System.Windows.Forms.TextBox txtEmail;
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label32;
         private System.Windows.Forms.TextBox laravel;
         private System.Windows.Forms.TextBox seo;
@@ -1721,7 +1732,6 @@ namespace Gerenciamento_NewTalents
         private System.Windows.Forms.TextBox mysql;
         private System.Windows.Forms.TextBox mysqlserv;
         private System.Windows.Forms.TextBox ruby;
-        private System.Windows.Forms.TextBox phyton;
         private System.Windows.Forms.TextBox wordpress;
         private System.Windows.Forms.TextBox vue;
         private System.Windows.Forms.TextBox php;
@@ -1731,8 +1741,6 @@ namespace Gerenciamento_NewTalents
         private System.Windows.Forms.TextBox aspnetwf;
         private System.Windows.Forms.TextBox aspnetmvc;
         private System.Windows.Forms.TextBox flask;
-        private System.Windows.Forms.TextBox python;
-        private System.Windows.Forms.TextBox java;
         private System.Windows.Forms.TextBox angular;
         private System.Windows.Forms.TextBox html;
         private System.Windows.Forms.TextBox ios;
@@ -1742,5 +1750,77 @@ namespace Gerenciamento_NewTalents
         private System.Windows.Forms.TextBox reactnative;
         private System.Windows.Forms.TextBox reactjs;
         private System.Windows.Forms.TextBox ionic;
+        private System.Windows.Forms.TextBox java;
+        public System.Windows.Forms.TextBox txtId;
+        public System.Windows.Forms.Button salvar;
+        public System.Windows.Forms.TextBox outras;
+        public System.Windows.Forms.Label label39;
+        public System.Windows.Forms.Panel panel38;
+        public System.Windows.Forms.Panel panel34;
+        public System.Windows.Forms.Panel panel35;
+        public System.Windows.Forms.Panel panel36;
+        public System.Windows.Forms.Panel panel37;
+        public System.Windows.Forms.Panel panel30;
+        public System.Windows.Forms.Panel panel31;
+        public System.Windows.Forms.Panel panel32;
+        public System.Windows.Forms.Panel panel33;
+        public System.Windows.Forms.Panel panel26;
+        public System.Windows.Forms.Panel panel27;
+        public System.Windows.Forms.Panel panel28;
+        public System.Windows.Forms.Panel panel29;
+        public System.Windows.Forms.Panel panel18;
+        public System.Windows.Forms.Panel panel19;
+        public System.Windows.Forms.Panel panel20;
+        public System.Windows.Forms.Panel panel22;
+        public System.Windows.Forms.Panel panel23;
+        public System.Windows.Forms.Panel panel24;
+        public System.Windows.Forms.Panel panel25;
+        public System.Windows.Forms.Panel panel10;
+        public System.Windows.Forms.Panel panel11;
+        public System.Windows.Forms.Panel panel12;
+        public System.Windows.Forms.Panel panel13;
+        public System.Windows.Forms.Panel panel14;
+        public System.Windows.Forms.Panel panel15;
+        public System.Windows.Forms.Panel panel16;
+        public System.Windows.Forms.Panel panel17;
+        public System.Windows.Forms.Panel panel6;
+        public System.Windows.Forms.Panel panel7;
+        public System.Windows.Forms.Panel panel8;
+        public System.Windows.Forms.Panel panel9;
+        public System.Windows.Forms.Panel panel4;
+        public System.Windows.Forms.Panel panel5;
+        public System.Windows.Forms.Panel panel3;
+        public System.Windows.Forms.Panel panel2;
+        public System.Windows.Forms.Label lblSalario;
+        public System.Windows.Forms.TextBox txtSalario;
+        public System.Windows.Forms.Label lblHorario;
+        public System.Windows.Forms.Label lblCargaHoraria;
+        public System.Windows.Forms.Label lblPortfolio;
+        public System.Windows.Forms.TextBox txtPortfolio;
+        public System.Windows.Forms.Label lblEstado;
+        public System.Windows.Forms.TextBox txtEstado;
+        public System.Windows.Forms.Label lblCidade;
+        public System.Windows.Forms.TextBox txtCidade;
+        public System.Windows.Forms.Label lblLinkedin;
+        public System.Windows.Forms.TextBox txtLinkedin;
+        public System.Windows.Forms.Label lblFone;
+        public System.Windows.Forms.MaskedTextBox txtFone;
+        public System.Windows.Forms.Label lblNome;
+        public System.Windows.Forms.TextBox txtNome;
+        public System.Windows.Forms.Label lbl_Email;
+        public System.Windows.Forms.TextBox txtEmail;
+        public System.Windows.Forms.Label label1;
+        public System.Windows.Forms.CheckBox chkComercial;
+        public System.Windows.Forms.CheckBox chkMadrugada;
+        public System.Windows.Forms.CheckBox chkNoite;
+        public System.Windows.Forms.CheckBox chkTarde;
+        public System.Windows.Forms.CheckBox chkManha;
+        public System.Windows.Forms.CheckBox chkFinaisSemana;
+        public System.Windows.Forms.CheckBox chkAcimaOito;
+        public System.Windows.Forms.CheckBox chkSeisaOito;
+        public System.Windows.Forms.CheckBox chkQuatroaSeis;
+        public System.Windows.Forms.CheckBox chkQuatro;
+        public System.Windows.Forms.Label label40;
+        private System.Windows.Forms.TextBox python;
     }
 }

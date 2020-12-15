@@ -31,7 +31,12 @@ namespace Gerenciamento_NewTalents
 
         private void newTalentToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            AbrirFormNoPanel(new NewTalent());
+            AbrirFormNoPanel(new CadastroTalents());
+        }
+
+        private void editarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AbrirFormNoPanel(new PesquisarTalents());
         }
     }
 }
